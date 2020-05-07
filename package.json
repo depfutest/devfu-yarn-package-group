@@ -7,6 +7,6 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-aria-modal": "^2.12.1",
-    "jquery": "^2.1.2"
+    "jquery": "^3.5.1"
   }
 }
